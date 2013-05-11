@@ -2,7 +2,7 @@
 #+STARTUP:    align fold nodlcheck hidestars oddeven lognotestate
 #+SEQ_TODO:   TODO(t) INPROGRESS(i) WAITING(w@) | DONE(d) CANCELED(c@)
 #+TAGS:       Write(w) Update(u) Fix(f) Check(c)
-#+TITLE:      Publishing Org-mode files to HTML
+#+TITLE:      发布 Org-mode 文件到 HTML 格式
 #+AUTHOR:     Sebastian Rose
 #+EMAIL:      sebastian_rose gmx de
 #+LANGUAGE:   en
@@ -10,9 +10,9 @@
 #+CATEGORY:   worg-tutorial
 
 
-[[file:../index.org][{Back to Worg's index}]]
+[[file:~/Workspace/exaos/utils/worg-zh/index.org][{返回 Worg-zh 首页}]]
 
-* Introduction
+* 简介
 
   This Tutorial describes one of many ways to publishing Org-mode files to
   XHTML. We use the publishing mechanism to keep the =*.html= files separated
@@ -31,7 +31,7 @@
   All this means, we are able to check and use the result of work immediately,
   everywhere.
 
-* Basics
+* 基础内容
 
   Throughout this tutorial, let's assume that all our Org-mode files live beneath
   =~/org/= and we publish them to =~/public_html/=.
@@ -75,7 +75,7 @@
   Optionally, set up the stylesheet as shown in section Special comment
   section. The recommended way is to use a real stylesheet though.
 
-* Publishing the /org/ project
+* 发布 /org/ 工程
 
   To publish the =~/org/= project to HTML, we'll have to setup the variable
   =org-publish-project-alist= [fn:3].  I tend to split each project in three basic

@@ -9,11 +9,11 @@
 #+PRIORITIES: A C B
 #+CATEGORY:   worg
 
-[[file:../index.org][{Back to Worg's index}]]
+[[file:~/Workspace/exaos/utils/worg-zh/index.org][{返回 Worg-zh 首页}]]
 
 #+index: Tutorials
 
-* General Introductions to Org-mode
+* Org-mode 的一般介绍
   :PROPERTIES:
   :ID:       5B439D78-F862-4380-959C-BEB542DFE352
   :END:
@@ -78,7 +78,7 @@
 
 - /In Spanish:/ [[file:org-reference-guide-es.org][A reference guide]] of each features, their text format and their available keys.
 
-* Power users describe their setup
+* 高级用户介绍他们的设置
   :PROPERTIES:
   :ID:       50A0DEB1-4B63-4CC4-840E-313615C4BAE3
   :END:
@@ -102,7 +102,7 @@
   - [[http://doc.norang.ca/org-mode.html][Organize Your Life In Plain Text!]] by Bernt Hansen describes how to
     use Org-mode to track and clock everything you work on.
 
-* Tutorials on specific features
+* 特定功能的教程
 ** Lists
 
 - A short [[http://lumiere.ens.fr/~guerry/org-playing-with-lists-screencast.html][screencast]] presenting a few features of plain lists, by
@@ -189,7 +189,7 @@
 
 - [[file:org-import-rtm.org][Importing from remember the milk]]
 
-* Special tasks
+* 特别任务
 ** Natural Project Planning
 
 - [[http://members.optusnet.com.au/~charles57/GTD/][Charles Cave]] about using Org-mode to implement [[http://members.optusnet.com.au/~charles57/GTD/Natural_Project_Planning.html][Natural Project
@@ -227,7 +227,7 @@
    meetings, for example of a commission or any other group, and for
    keeping track of the groups tasks.  [[file:org-meeting-tasks.org][Link to the tutorial]].
    
-* Personal Setup
+* 个性设置
 
   See also [[id:50A0DEB1-4B63-4CC4-840E-313615C4BAE3][Powerusers describe their setup]]
 
@@ -244,11 +244,11 @@
   - Jan Böcker describes his approach to [[http://www.jboecker.de/2010/04/14/general-reference-filing-with-org-mode.html][general reference filing]] with
     org-mode.
 
-* Screencasts
+* 截屏
 
   See the [[file:org-screencasts/index.org][Screencasts]] page for a complete list of Org-mode screencasts.
 
-* Features waiting for tutorials
+* 等待编写教程的功能
 
 - The Clock Table
 - Sparse Trees
@@ -259,7 +259,7 @@
 - Using orgtbl-mode in LaTeX
 - Capture
 
-* Org-related pages by Tutorial authors
+* 与 Org 相关的教程作者主页
 
 Here are the pages of a number of people that write for or about
 Org-mode:

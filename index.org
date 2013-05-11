@@ -1,6 +1,6 @@
-#+TITLE:      Hello Worg, the Org-Mode Community!
-#+AUTHOR:     Worg people
-#+EMAIL:      mdl AT imapmail DOT org
+#+TITLE:      你好, Worg-zh -- Org-mode 的中文社区！
+#+AUTHOR:     Worg/Worg-zh 成员
+#+EMAIL:      unknown AT newsmth DOT net
 #+STARTUP:    align fold nodlcheck hidestars oddeven intestate
 #+SEQ_TODO:   TODO(t) INPROGRESS(i) WAITING(w@) | DONE(d) CANCELED(c@)
 #+TAGS:       Write(w) Update(u) Fix(f) Check(c)
@@ -9,8 +9,7 @@
 #+CATEGORY:   worg
 #+OPTIONS:    H:3 num:nil toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t TeX:t LaTeX:t skip:nil d:(HIDE) tags:not-in-toc
 
-# For this dynamic block to work, you need to add code/elisp/worg.el in
-# your load-path.
+# 为了动态区域能正常工作，你应该将 code/elisp/worg.el 添加到 load-path 中
 
 # Let say that you like [[http://www.gnu.org/software/emacs/][Emacs]] and that you like using [[http://orgmode.org][org-mode]] for editing
 # structured files in Emacs.  Then you might want to /share/ some =.org=
